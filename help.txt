@@ -1,0 +1,11 @@
+************
+*   HELP   *
+************
+1. Available types -> Displays a list of available flowers with details like name, price.
+2. Place Order ->  Add flowers to your cart and set your desired quantity.Also provide delivery info.
+3. View Cart -> See what you have selected for purchase. 
+4. Checkout -> Confirm your order.
+5. Help -> You are here now! 
+6. About us -> Get to know about our store.
+7. Feedback/Rating -> Tell us about your experience using this application.
+8. Exit -> Close the application.

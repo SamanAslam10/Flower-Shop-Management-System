@@ -1,0 +1,12 @@
+****************
+*   ABOUT US   *
+****************
+>Lily Blooms - Console Edition
+>Version 1.0
+>This application is designed to simulate an online flower shop,
+ allowing users to browse flowers, place orders, and manage their cart
+ through a simple console interface.
+>Developed by: Saman Aslam {2025(S)-CS-78}
+>University: UET Lahore
+>Course: Programming Fundamentals Spring 2025
+>Note: This is a console-based prototype for educational purposes only.
